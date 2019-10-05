@@ -43,4 +43,4 @@ monopoly = {
   }
 }
 
-puts monopoly[railroads]
+puts monopoly
