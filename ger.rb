@@ -43,4 +43,4 @@ monopoly = {
   }
 }
 
-puts monopoly[:railroads][:rent_in_dollars]
+puts monopoly[:railroads][:names]
