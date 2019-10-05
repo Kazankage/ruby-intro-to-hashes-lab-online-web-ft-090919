@@ -43,4 +43,4 @@ monopoly = {
   }
 }
 
-monopoly[:railroads[:pieces]]
+monopoly[:railroads][:pieces]
